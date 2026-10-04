@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- EDIT: replace [Last Name] everywhere in this file (search for "[") -->
 <title>Blake Herring | Bar and restaurant apps, reporting, and dashboards</title>
 <meta name="description" content="Cocktail apps, automated reporting, and professional dashboards for bars and restaurants, built by a 10-year bar manager in Google Workspace.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -233,7 +232,7 @@
 
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="#">Blake [Last Name]</a>
+    <a class="brand" href="#">Blake Herring</a>
     <nav class="nav" aria-label="Main">
       <a href="#services">Services</a>
       <a href="#work">Work</a>
@@ -250,7 +249,6 @@
         <h1>Ten years behind the bar. Now I build the tools I wished I had.</h1>
         <p class="lede">Cocktail apps, automated reports, and clean dashboards for bars and restaurants, built in the Google Workspace you already pay for.</p>
         <div class="actions">
-          <!-- EDIT: replace you@example.com with your email -->
           <a class="btn btn-primary" href="mailto:sobie275@gmail.com?subject=Discovery%20call">Book a 20-minute call</a>
           <a class="btn btn-ghost" href="#work">See what I've built</a>
         </div>
@@ -414,15 +412,12 @@
       <div>
         <h2 class="title">Let's look at how you run reports today</h2>
         <p class="intro">Tell me what's eating up your managers' time. If I can't save you hours each week, I'll tell you on the first call.</p>
-        <a class="btn btn-primary" href="mailto:you@example.com?subject=Discovery%20call">Email me to book a call</a>
+        <a class="btn btn-primary" href="mailto:sobie275@gmail.com?subject=Discovery%20call">Email me to book a call</a>
       </div>
       <div class="contact-details">
-        <!-- EDIT: your contact details -->
-        <p><span class="label">Email</span><a href="mailto:sobie275@gmail.com">you@example.com</a></p>
-        <p><span class="label">Phone</span><a href="tel:+14043371143">(000) 000-0000</a></p>
-        <p><span class="label">LinkedIn</span><a href="https://www.linkedin.com/in/b-e-herring">linkedin.com/in/b-e-herring
-
-</a></p>
+        <p><span class="label">Email</span><a href="mailto:sobie275@gmail.com">sobie275@gmail.com</a></p>
+        <p><span class="label">Phone</span><a href="tel:+14043371143">(404) 337-1143</a></p>
+        <p><span class="label">LinkedIn</span><a href="https://www.linkedin.com/in/b-e-herring">linkedin.com/in/b-e-herring</a></p>
         <p><span class="label">Based in</span>Metro Atlanta, working with businesses anywhere</p>
       </div>
     </div>
@@ -430,7 +425,7 @@
 </main>
 
 <footer class="site-footer">
-  <div class="wrap">&copy; <span id="year">2026</span> Blake [Last Name]</div>
+  <div class="wrap">&copy; <span id="year">2026</span> Blake Herring</div>
 </footer>
 
 <script>
