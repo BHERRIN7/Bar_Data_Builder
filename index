@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- EDIT: replace [Last Name] everywhere in this file (search for "[") -->
-<title>Blake [Last Name] | Bar and restaurant apps, reporting, and dashboards</title>
+<title>Blake Herring | Bar and restaurant apps, reporting, and dashboards</title>
 <meta name="description" content="Cocktail apps, automated reporting, and professional dashboards for bars and restaurants, built by a 10-year bar manager in Google Workspace.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -251,7 +251,7 @@
         <p class="lede">Cocktail apps, automated reports, and clean dashboards for bars and restaurants, built in the Google Workspace you already pay for.</p>
         <div class="actions">
           <!-- EDIT: replace you@example.com with your email -->
-          <a class="btn btn-primary" href="mailto:you@example.com?subject=Discovery%20call">Book a 20-minute call</a>
+          <a class="btn btn-primary" href="mailto:sobie275@gmail.com?subject=Discovery%20call">Book a 20-minute call</a>
           <a class="btn btn-ghost" href="#work">See what I've built</a>
         </div>
       </div>
@@ -418,9 +418,11 @@
       </div>
       <div class="contact-details">
         <!-- EDIT: your contact details -->
-        <p><span class="label">Email</span><a href="mailto:you@example.com">you@example.com</a></p>
-        <p><span class="label">Phone</span><a href="tel:+10000000000">(000) 000-0000</a></p>
-        <p><span class="label">LinkedIn</span><a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
+        <p><span class="label">Email</span><a href="mailto:sobie275@gmail.com">you@example.com</a></p>
+        <p><span class="label">Phone</span><a href="tel:+14043371143">(000) 000-0000</a></p>
+        <p><span class="label">LinkedIn</span><a href="https://www.linkedin.com/in/b-e-herring">linkedin.com/in/b-e-herring
+
+</a></p>
         <p><span class="label">Based in</span>Metro Atlanta, working with businesses anywhere</p>
       </div>
     </div>
